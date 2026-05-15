@@ -31,7 +31,5 @@ A validação do acesso foi realizada com sucesso através das ferramentas:
 * **Isolamento:** A importância de nomear e taguear instâncias para organização em ambientes Cloud.
 * **Segregação de Portas:** A boa prática de não abrir todas as portas (0.0.0.0/0) e sim focar nos protocolos necessários para cada serviço.
   
-## Enfatizando que o modulo prático de S3 e EBS pulou caso esteja vendo antes de um realizar os handsons aguarde por favor
-
 ---
 Documentação desenvolvida como parte do desafio prático da DIO.
